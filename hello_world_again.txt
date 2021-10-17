@@ -1,1 +1,2 @@
 This is Charlie's second git project!
+Hello from the other side
